@@ -1,7 +1,7 @@
 # Mealinfo project in python using mangoDB
 ### required modules 
- import json
-import pprint
+*  import json
+* import pprint
 import warnings
  warnings.filterwarnings("ignore")
 ### Client connection with mongoDB
