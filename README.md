@@ -2,8 +2,8 @@
 ### required modules 
 *  import json
 * import pprint
-import warnings
- warnings.filterwarnings("ignore")
+* import warnings
+*   warnings.filterwarnings("ignore")
 ### Client connection with mongoDB
  import pymongo
 client = pymongo.MongoClient('localhost',27017)
