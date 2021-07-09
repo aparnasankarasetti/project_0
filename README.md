@@ -8,5 +8,5 @@
 * import pymongo
 * client = pymongo.MongoClient('localhost',27017)
 ### create database 
-db = client['mealinfo']
-use some MONGODB commands like find(),find_many(),insert_one(),insert_many(),sort(),limit(),update_many(),drop()
+* db = client['mealinfo']
+* use some MONGODB commands like find(),find_many(),insert_one(),insert_many(),sort(),limit(),update_many(),drop()
