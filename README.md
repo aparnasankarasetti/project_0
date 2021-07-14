@@ -10,3 +10,4 @@
 ### create database 
 * db = client['mealinfo']
 * use some MONGODB commands like find(),find_many(),insert_one(),insert_many(),sort(),limit(),update_many(),drop()
+* use some  MYSQl commands like update,select,remove,drop,insert.
